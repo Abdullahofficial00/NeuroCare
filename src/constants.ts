@@ -26,21 +26,21 @@ export const TEAM_DATA: TeamMember[] = [
     name: "Muhammad Abdullah",
     role: "Founder & CEO",
     linkedin: "https://www.linkedin.com/in/muhammad-abdullah-kasuri/",
-    image: "/public/team/Abdullah.png",
+    image: "/public/team/abdullah.png",
     initials: "MAK"
   },
   {
     name: "Iqra Rafique",
     role: "Mobile App Developer",
     linkedin: "https://www.linkedin.com/in/iqra-rafique/",
-    image: "/public/team/Iqra.png",
+    image: "/public/team/iqra.png",
     initials: "IR"
   },
   {
     name: "Shaheer Khalid",
     role: "Associate Software Engineer / AI Specialist",
     linkedin: "http://linkedin.com/in/shaheer-khalid-814b54245/",
-    image: "/public/team/Shaheer.png",
+    image: "/public/team/shaheer.png",
     initials: "SK"
   },
   {
