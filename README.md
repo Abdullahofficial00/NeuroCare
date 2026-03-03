@@ -84,6 +84,10 @@ npm run preview
 
 https://github.com/Abdullahofficial00/Neuro-Care
 
+## Website Live View
+
+https://myneurocare.netlify.app/
+
 ## Documentation
 
 Thesis and additional project documentation are available in the repository.
