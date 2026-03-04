@@ -20,35 +20,35 @@ export const TEAM_DATA: TeamMember[] = [
     role: "Project Lead",
     linkedin: "https://www.linkedin.com/in/waqas-ali-429922261/",
     image: "/team/waqas.png",
-    initials: "WA"
+    initials: " "
   },
   {
     name: "Muhammad Abdullah",
     role: "Founder & CEO",
     linkedin: "https://www.linkedin.com/in/muhammad-abdullah-kasuri/",
     image: "/team/abdullah.png",
-    initials: "MAK"
+    initials: " "
   },
   {
     name: "Iqra Rafique",
     role: "Mobile App Developer",
     linkedin: "https://www.linkedin.com/in/iqra-rafique/",
     image: "/team/iqra.png",
-    initials: "IR"
+    initials: " "
   },
   {
     name: "Shaheer Khalid",
     role: "Associate Software Engineer / AI Specialist",
     linkedin: "http://linkedin.com/in/shaheer-khalid-814b54245/",
     image: "/team/shaheer.png",
-    initials: "SK"
+    initials: " "
   },
   {
     name: "Samia Liaqat",
     role: "Documentation Lead",
     linkedin: "https://www.linkedin.com/in/samia-liaqat/",
     image: "/team/samia.png",
-    initials: "SL"
+    initials: " "
   }
 ];
 
