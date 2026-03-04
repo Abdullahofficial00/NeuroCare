@@ -15,13 +15,7 @@ export interface Feature {
 }
 
 export const TEAM_DATA: TeamMember[] = [
-  {
-    name: "Waqas Ali",
-    role: "Project Lead",
-    linkedin: "https://www.linkedin.com/in/waqas-ali-429922261/",
-    image: "/team/waqas.png",
-    initials: " "
-  },
+  
   {
     name: "Muhammad Abdullah",
     role: "Founder & CEO",
@@ -30,10 +24,10 @@ export const TEAM_DATA: TeamMember[] = [
     initials: " "
   },
   {
-    name: "Iqra Rafique",
-    role: "Mobile App Developer",
-    linkedin: "https://www.linkedin.com/in/iqra-rafique/",
-    image: "/team/iqra.png",
+    name: "Waqas Ali",
+    role: "Project Lead",
+    linkedin: "https://www.linkedin.com/in/waqas-ali-429922261/",
+    image: "/team/waqas.png",
     initials: " "
   },
   {
@@ -43,6 +37,14 @@ export const TEAM_DATA: TeamMember[] = [
     image: "/team/shaheer.png",
     initials: " "
   },
+  {
+    name: "Iqra Rafique",
+    role: "Mobile App Developer",
+    linkedin: "https://www.linkedin.com/in/iqra-rafique/",
+    image: "/team/iqra.png",
+    initials: " "
+  },
+  
   {
     name: "Samia Liaqat",
     role: "Documentation Lead",
